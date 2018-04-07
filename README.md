@@ -1,2 +1,0 @@
-# playground-playground-WaterQualityMonitur-README.md
-The purpose of this project is to asertain the quality of water. This is achieved by using Arduino and other sensors. The sensors used are: Temperature sensor to test the water temperature, Turbidity senson to test for solid particles i.e the amount of light, PH sensor to test the alkalinity of the water, altrasonic sensor to test the water level.
